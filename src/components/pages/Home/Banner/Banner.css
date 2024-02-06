@@ -1,0 +1,9 @@
+.banner-img {
+  background-image: url("../../../../assets/banner.png");
+}
+
+/* @media screen and (min-width: 660px) {
+  .title {
+    margin-top: 50px;
+  }
+} */
