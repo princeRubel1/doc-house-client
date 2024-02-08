@@ -8,7 +8,7 @@ import cosmeticImg from "../../../../assets/cosmetic.avif";
 import "./Services.css";
 const Services = () => {
   return (
-    <div className="">
+    <div className="mt-10 mb-10">
       <div className="flex flex-col md:flex-row items-center justify-center gap-10  py-20 px-4">
         <div className="md:w-2/3">
           <img src={serviceDoc} className="h-[1000px]" alt="" />
@@ -71,7 +71,7 @@ const Services = () => {
                             ✕
                           </button>
                         </form>
-                        <ol className="list-decimal">
+                        <ol className="list-decimal space-y-5 p-8">
                           <li>
                             <span className="text-xl font-semibold">
                               Fluoride
@@ -147,7 +147,7 @@ const Services = () => {
                       </button>
                     </div>
 
-                    <dialog id="my_modal_3" className="modal">
+                    <dialog id="my_modal_3" className="modal ">
                       <div className="modal-box">
                         <form method="dialog">
                           {/* if there is a button in form, it will close the modal */}
@@ -155,8 +155,8 @@ const Services = () => {
                             ✕
                           </button>
                         </form>
-                        <ol className="list-decimal">
-                          <li>
+                        <ol className="list-decimal space-y-5 p-8">
+                          <li className="">
                             <span className="text-xl font-semibold">
                               Orthognathic Surgery
                             </span>
@@ -238,7 +238,7 @@ const Services = () => {
                             ✕
                           </button>
                         </form>
-                        <ol className="list-decimal">
+                        <ol className="list-decimal space-y-5 p-8">
                           <li>
                             <span className="text-xl font-semibold">
                               Teeth Whitening

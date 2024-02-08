@@ -7,10 +7,10 @@ import {
 
 const Information = () => {
   return (
-    <div className="flex flex-col md:flex-row items-center justify-center gap-28  py-20 px-4">
+    <div className="flex flex-col md:flex-row items-center justify-center gap-28 mb-20  rounded-md py-20 px-4">
       <div
         style={{ backgroundColor: "#07332F" }}
-        className="h-40 w-80  p-10 rounded-xl flex justify-center gap-5"
+        className="h-40 w-96  p-10 rounded-xl flex justify-center gap-5"
       >
         <div>
           <span>
@@ -24,7 +24,7 @@ const Information = () => {
       </div>
       <div
         style={{ backgroundColor: "#F7A582" }}
-        className="h-40 w-80  p-10 rounded-xl flex justify-center gap-5"
+        className="h-40 w-96  p-10 rounded-xl flex justify-center gap-5"
       >
         <div>
           <span>
@@ -38,7 +38,7 @@ const Information = () => {
       </div>
       <div
         style={{ backgroundColor: "#07332F" }}
-        className="h-40 w-80  p-10 rounded-xl flex justify-center gap-5"
+        className="h-40 w-96  p-10 rounded-xl flex justify-center gap-5"
       >
         <div>
           <span>
@@ -47,7 +47,11 @@ const Information = () => {
         </div>
         <div>
           <h2 className="text-white font-bold">Contact Us</h2>
-          <p className="text-gray-300">+88 01750 00 00 00 +88 01750 00 00 00</p>
+          <p className="text-gray-300">
+            +88 01750 00 00 00
+            <br />
+            +88 01750 00 00 00
+          </p>
         </div>
       </div>
     </div>

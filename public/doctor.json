@@ -1,0 +1,402 @@
+[
+  {
+    "doctorName": "Dr. Samantha Patel",
+    "specialist": "Ophthalmologist",
+    "rating": 4.8,
+    "location": "789 Oak Street, Cityville",
+    "fees": "$180",
+    "image_url": "https://img.freepik.com/free-photo/portrait-experienced-professional-therapist-with-stethoscope-looking-camera_1098-19305.jpg?size=626&ext=jpg",
+    "qualification": [
+      {
+        "degree": "Doctor of Medicine (MD)",
+        "university": "University of California, San Francisco",
+        "year": "2009"
+      },
+      {
+        "degree": "Residency in Ophthalmology",
+        "university": "Wilmer Eye Institute, Johns Hopkins University",
+        "year": "2013"
+      }
+    ],
+    "description": "Dr. Samantha Patel is a highly skilled ophthalmologist specializing in comprehensive eye care. She is dedicated to preserving and improving her patients' vision through personalized treatment plans.",
+    "businessHour": "Mon-Fri: 8am - 4pm",
+    "awards": ["Top Ophthalmologist Award 2022"],
+    "services": ["Eye Exams", "Cataract Surgery", "LASIK"],
+    "workExperience": [
+      {
+        "hospital": "Cityville Eye Center",
+        "position": "Ophthalmologist",
+        "years": "2014-present"
+      }
+    ]
+  },
+
+  {
+    "doctorName": "Dr. Emily Johnson",
+    "specialist": "Cardiologist",
+    "rating": 4.8,
+    "location": "123 Main Street, Cityville",
+    "fees": "$200",
+    "image_url": "https://img.freepik.com/free-photo/young-doctor-getting-ready-work_23-2149393691.jpg?size=626&ext=jpg",
+    "qualification": [
+      {
+        "degree": "Doctor of Medicine (MD)",
+        "university": "Harvard Medical School",
+        "year": "2005"
+      },
+      {
+        "degree": "PhD in Cardiology",
+        "university": "Johns Hopkins University",
+        "year": "2010"
+      }
+    ],
+    "description": "Dr. Emily Johnson is a highly experienced cardiologist with over 15 years of practice. She specializes in advanced cardiac imaging and interventional cardiology procedures.",
+    "businessHour": "Mon-Fri: 9am - 5pm",
+    "awards": [
+      "Best Cardiologist of the Year 2023",
+      "Top Doctor in Cityville 2022"
+    ],
+    "services": ["Echocardiogram", "Stress Test", "Angioplasty"],
+    "workExperience": [
+      {
+        "hospital": "Cityville General Hospital",
+        "position": "Chief Cardiologist",
+        "years": "2010-2017"
+      },
+      {
+        "hospital": "Cityville Heart Institute",
+        "position": "Director of Cardiology",
+        "years": "2017-present"
+      }
+    ]
+  },
+  {
+    "doctorName": "Dr. Michael Smith",
+    "specialist": "Dermatologist",
+    "rating": 4.5,
+    "location": "456 Elm Avenue, Townsville",
+    "fees": "$150",
+    "image_url": "https://img.freepik.com/premium-photo/portrait-male-doctor-gp-with-stethoscope-wearing-white-coat-standing-office_562859-2455.jpg?size=626&ext=jpg",
+    "qualification": [
+      {
+        "degree": "Doctor of Medicine (MD)",
+        "university": "Stanford University School of Medicine",
+        "year": "2008"
+      }
+    ],
+    "description": "Dr. Michael Smith is a board-certified dermatologist specializing in medical and cosmetic dermatology. He provides personalized treatment plans for various skin conditions.",
+    "businessHour": "Tue-Sat: 10am - 6pm",
+    "awards": ["Outstanding Dermatologist Award 2021"],
+    "services": ["Acne Treatment", "Skin Cancer Screening", "Botox"],
+    "workExperience": [
+      {
+        "hospital": "Townsville Dermatology Clinic",
+        "position": "Senior Dermatologist",
+        "years": "2012-present"
+      }
+    ]
+  },
+  {
+    "doctorName": "Dr. Sarah Lee",
+    "specialist": "Pediatrician",
+    "rating": 4.9,
+    "location": "789 Oak Street, Villageland",
+    "fees": "$180",
+    "image_url": "https://img.freepik.com/premium-photo/handsome-doctor-using-mobile-phone-hospital_175634-9457.jpg?size=626&ext=jpg",
+    "qualification": [
+      {
+        "degree": "Doctor of Medicine (MD)",
+        "university": "Yale School of Medicine",
+        "year": "2010"
+      },
+      {
+        "degree": "Fellowship in Pediatric Medicine",
+        "university": "Children's Hospital of Philadelphia",
+        "year": "2013"
+      }
+    ],
+    "description": "Dr. Sarah Lee is a dedicated pediatrician with a passion for preventive care and child development. She believes in building strong relationships with her patients and their families.",
+    "businessHour": "Mon-Fri: 8am - 4pm",
+    "awards": ["Top Pediatrician Award 2022"],
+    "services": [
+      "Well-child checkups",
+      "Vaccinations",
+      "Treatment of childhood illnesses"
+    ],
+    "workExperience": [
+      {
+        "hospital": "Villageland Pediatrics Center",
+        "position": "Pediatrician",
+        "years": "2013-present"
+      }
+    ]
+  },
+  {
+    "doctorName": "Dr. John Davis",
+    "specialist": "Orthopedic Surgeon",
+    "rating": 4.7,
+    "location": "555 Pine Street, Townsville",
+    "fees": "$250",
+    "image_url": "https://img.freepik.com/premium-photo/man-white-coat-stands-dark-room-with-light-him_896360-3687.jpg?size=626&ext=jpg",
+    "qualification": [
+      {
+        "degree": "Doctor of Medicine (MD)",
+        "university": "Columbia University Vagelos College of Physicians and Surgeons",
+        "year": "2006"
+      },
+      {
+        "degree": "Fellowship in Orthopedic Surgery",
+        "university": "Hospital for Special Surgery",
+        "year": "2012"
+      }
+    ],
+    "description": "Dr. John Davis is an experienced orthopedic surgeon specializing in joint replacement surgeries and sports injuries. He is committed to providing personalized care to his patients.",
+    "businessHour": "Mon-Fri: 9am - 6pm",
+    "awards": ["Top Orthopedic Surgeon Award 2023"],
+    "services": [
+      "Joint Replacement",
+      "Sports Injury Treatment",
+      "Arthroscopic Surgery"
+    ],
+    "workExperience": [
+      {
+        "hospital": "Townsville Orthopedic Center",
+        "position": "Lead Orthopedic Surgeon",
+        "years": "2014-present"
+      }
+    ]
+  },
+  {
+    "doctorName": "Dr. Lisa Nguyen",
+    "specialist": "Oncologist",
+    "rating": 4.6,
+    "location": "987 Maple Avenue, Cityville",
+    "fees": "$300",
+    "image_url": "https://img.freepik.com/premium-photo/young-handsome-bearded-persian-man-doctor-wearing-eyeglasses_251136-17881.jpg?size=626&ext=jpg",
+    "qualification": [
+      {
+        "degree": "Doctor of Medicine (MD)",
+        "university": "University of California, San Francisco",
+        "year": "2007"
+      },
+      {
+        "degree": "Fellowship in Oncology",
+        "university": "Memorial Sloan Kettering Cancer Center",
+        "year": "2013"
+      }
+    ],
+    "description": "Dr. Lisa Nguyen is a board-certified oncologist specializing in the treatment of various cancers. She is dedicated to providing compassionate care to her patients and their families.",
+    "businessHour": "Mon-Sat: 8am - 4pm",
+    "awards": ["Excellence in Oncology Award 2022"],
+    "services": ["Chemotherapy", "Radiation Therapy", "Immunotherapy"],
+    "workExperience": [
+      {
+        "hospital": "Cityville Cancer Center",
+        "position": "Oncologist",
+        "years": "2014-present"
+      }
+    ]
+  },
+  {
+    "doctorName": "Dr. James Wilson",
+    "specialist": "Neurologist",
+    "rating": 4.9,
+    "location": "321 Oak Avenue, Villageland",
+    "fees": "$220",
+    "image_url": "https://img.freepik.com/premium-photo/portrait-arab-turkish-young-doctor-white-coat_227201-593.jpg?size=626&ext=jpg",
+    "qualification": [
+      {
+        "degree": "Doctor of Medicine (MD)",
+        "university": "University of Pennsylvania Perelman School of Medicine",
+        "year": "2009"
+      },
+      {
+        "degree": "Residency in Neurology",
+        "university": "Massachusetts General Hospital",
+        "year": "2013"
+      }
+    ],
+    "description": "Dr. James Wilson is a skilled neurologist specializing in the diagnosis and treatment of neurological disorders. He is dedicated to providing comprehensive and compassionate care to his patients.",
+    "businessHour": "Mon-Fri: 9am - 5pm",
+    "awards": ["Top Neurologist Award 2021"],
+    "services": [
+      "Stroke Treatment",
+      "Epilepsy Management",
+      "Movement Disorders"
+    ],
+    "workExperience": [
+      {
+        "hospital": "Villageland Neurology Clinic",
+        "position": "Neurologist",
+        "years": "2014-present"
+      }
+    ]
+  },
+  {
+    "doctorName": "Dr. Jennifer Garcia",
+    "specialist": "Gynecologist",
+    "rating": 4.7,
+    "location": "234 Cedar Street, Cityville",
+    "fees": "$180",
+    "image_url": "https://img.freepik.com/premium-photo/italian-doctor-writing-clipboard_175634-25768.jpg?size=626&ext=jpg",
+    "qualification": [
+      {
+        "degree": "Doctor of Medicine (MD)",
+        "university": "University of California, Los Angeles",
+        "year": "2008"
+      },
+      {
+        "degree": "Residency in Obstetrics and Gynecology",
+        "university": "Cedars-Sinai Medical Center",
+        "year": "2012"
+      }
+    ],
+    "description": "Dr. Jennifer Garcia is a compassionate gynecologist providing comprehensive care to women of all ages. She is committed to empowering her patients through education and personalized treatment plans.",
+    "businessHour": "Mon-Fri: 9am - 5pm",
+    "awards": ["Top Gynecologist Award 2022"],
+    "services": ["Annual Exams", "Family Planning", "Menopause Management"],
+    "workExperience": [
+      {
+        "hospital": "Cityville Women's Health Center",
+        "position": "Gynecologist",
+        "years": "2013-present"
+      }
+    ]
+  },
+  {
+    "doctorName": "Dr. William Taylor",
+    "specialist": "Psychiatrist",
+    "rating": 4.8,
+    "location": "876 Elm Street, Townsville",
+    "fees": "$190",
+    "image_url": "https://img.freepik.com/premium-photo/senior-doctor-blue-medical-background_21730-4200.jpg?size=626&ext=jpg",
+    "qualification": [
+      {
+        "degree": "Doctor of Medicine (MD)",
+        "university": "University of Michigan Medical School",
+        "year": "2009"
+      },
+      {
+        "degree": "Residency in Psychiatry",
+        "university": "New York-Presbyterian Hospital",
+        "year": "2013"
+      }
+    ],
+    "description": "Dr. William Taylor is a board-certified psychiatrist with extensive experience in diagnosing and treating mental health disorders. He provides compassionate and evidence-based care to his patients.",
+    "businessHour": "Mon-Fri: 10am - 6pm",
+    "awards": ["Outstanding Psychiatrist Award 2021"],
+    "services": [
+      "Individual Therapy",
+      "Medication Management",
+      "Cognitive Behavioral Therapy"
+    ],
+    "workExperience": [
+      {
+        "hospital": "Townsville Behavioral Health Clinic",
+        "position": "Psychiatrist",
+        "years": "2014-present"
+      }
+    ]
+  },
+  {
+    "doctorName": "Dr. Michelle Lopez",
+    "specialist": "Endocrinologist",
+    "rating": 4.6,
+    "location": "543 Pine Avenue, Villageland",
+    "fees": "$220",
+    "image_url": "https://img.freepik.com/premium-photo/medical-healthcare-people-concept-friendly-doctor-with-stethoscope-hospital-smiling-physician_378307-3195.jpg?size=626&ext=jpg",
+    "qualification": [
+      {
+        "degree": "Doctor of Medicine (MD)",
+        "university": "University of Chicago Pritzker School of Medicine",
+        "year": "2007"
+      },
+      {
+        "degree": "Fellowship in Endocrinology",
+        "university": "Mayo Clinic",
+        "year": "2013"
+      }
+    ],
+    "description": "Dr. Michelle Lopez is a board-certified endocrinologist specializing in the diagnosis and management of hormonal disorders. She is committed to providing personalized care to optimize her patients' health.",
+    "businessHour": "Tue-Sat: 8am - 4pm",
+    "awards": ["Excellence in Endocrinology Award 2022"],
+    "services": [
+      "Diabetes Management",
+      "Thyroid Disorders",
+      "Hormone Replacement Therapy"
+    ],
+    "workExperience": [
+      {
+        "hospital": "Villageland Endocrinology Center",
+        "position": "Endocrinologist",
+        "years": "2014-present"
+      }
+    ]
+  },
+  {
+    "doctorName": "Dr. David Brown",
+    "specialist": "Urologist",
+    "rating": 4.7,
+    "location": "678 Maple Avenue, Cityville",
+    "fees": "$210",
+    "image_url": "https://img.freepik.com/premium-photo/man-doctor-white-coat-with-stethoscope_99433-193.jpg?size=626&ext=jpg",
+    "qualification": [
+      {
+        "degree": "Doctor of Medicine (MD)",
+        "university": "Perelman School of Medicine at the University of Pennsylvania",
+        "year": "2008"
+      },
+      {
+        "degree": "Residency in Urology",
+        "university": "Johns Hopkins Hospital",
+        "year": "2013"
+      }
+    ],
+    "description": "Dr. David Brown is a skilled urologist with expertise in the diagnosis and treatment of urological conditions. He is dedicated to providing compassionate care and improving his patients' quality of life.",
+    "businessHour": "Mon-Fri: 8am - 5pm",
+    "awards": ["Top Urologist Award 2023"],
+    "services": [
+      "Prostate Screening",
+      "Kidney Stone Treatment",
+      "Erectile Dysfunction Therapy"
+    ],
+    "workExperience": [
+      {
+        "hospital": "Cityville Urology Center",
+        "position": "Urologist",
+        "years": "2014-present"
+      }
+    ]
+  },
+  {
+    "doctorName": "Dr. Amy Roberts",
+    "specialist": "Allergist",
+    "rating": 4.5,
+    "location": "890 Cedar Street, Townsville",
+    "fees": "$170",
+    "image_url": "https://img.freepik.com/premium-photo/portrait-smiling-doctor_107420-49074.jpg?size=626&ext=jpg",
+    "qualification": [
+      {
+        "degree": "Doctor of Medicine (MD)",
+        "university": "University of California, San Diego School of Medicine",
+        "year": "2009"
+      },
+      {
+        "degree": "Fellowship in Allergy and Immunology",
+        "university": "National Jewish Health",
+        "year": "2014"
+      }
+    ],
+    "description": "Dr. Amy Roberts is a board-certified allergist specializing in the diagnosis and treatment of allergies and asthma. She is dedicated to providing personalized care to improve her patients' quality of life.",
+    "businessHour": "Mon-Fri: 9am - 6pm",
+    "awards": ["Outstanding Allergist Award 2021"],
+    "services": ["Allergy Testing", "Immunotherapy", "Asthma Management"],
+    "workExperience": [
+      {
+        "hospital": "Townsville Allergy Clinic",
+        "position": "Allergist",
+        "years": "2015-present"
+      }
+    ]
+  }
+]

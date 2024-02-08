@@ -1,4 +1,6 @@
+import { Link } from "react-router-dom";
 import logo from "./../../../../assets/logo.png";
+import { AwesomeButton } from "react-awesome-button";
 
 const Navbar = () => {
   return (
@@ -43,9 +45,11 @@ const Navbar = () => {
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal text-white px-1">
-            <li>
-              <a>Home</a>
-            </li>
+            <Link to="/">
+              <li>
+                <a>Home</a>
+              </li>
+            </Link>
             <li>
               <a>About</a>
             </li>
@@ -55,7 +59,9 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="btn">Login</a>
+          <Link>
+            <AwesomeButton type="primary">Log In</AwesomeButton>
+          </Link>
         </div>
       </div>
     </div>
